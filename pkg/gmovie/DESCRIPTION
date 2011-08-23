@@ -1,0 +1,11 @@
+Package: gmovie
+Type: Package
+Title: Creates a movie in Google Earth
+Version: 1.0
+Date: 2011-06-02
+Author: Benjamin Godlove
+Maintainer: Benjamin Godlove <bgodlove88@gmail.com>
+Depends: RKML
+Description: Uses kml to create a movie in Google Earth. The movie consists of placemarks appearing at certain times. Very useful in tracking the spread of an epidemic.
+License: GNU General Public License
+LazyLoad: yes

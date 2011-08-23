@@ -1,0 +1,6 @@
+import(RKML)
+
+export(addPlacemark,
+  addResidualPlacemark,
+  gmovie)
+  
